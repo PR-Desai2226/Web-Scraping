@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "myproject-nlp-320112",
+  "private_key_id": "398d6b24af25a24eef400f8cef2c5a6a9a06c1cd",
+  "private_key": "-----BEGIN PRIVATE KEY----- 
+/** Removed for privacy reason. **/ 
+-----END PRIVATE KEY-----\n",
+  "client_email": "nlpiisc@myproject-nlp-320112.iam.gserviceaccount.com",
+  "client_id": "115386923267585980055",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlpiisc%40myproject-nlp-320112.iam.gserviceaccount.com"
+}
